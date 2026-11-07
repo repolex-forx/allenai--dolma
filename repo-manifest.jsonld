@@ -8,7 +8,7 @@
     {
       "@id": "https://repolex.ai/r/allenai/dolma/commit/669f534823b08d266a8fff01f8a1c916a5a56576",
       "git:hexsha": "669f534823b08d266a8fff01f8a1c916a5a56576",
-      "repolex:parseStatus": "metadata_complete"
+      "repolex:parseStatus": "ast_complete"
     },
     {
       "@id": "https://repolex.ai/r/allenai/dolma/commit/e9527ebf241b6576e56a4a92826bd898a5f48350",

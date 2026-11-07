@@ -1,0 +1,11 @@
+{
+  "org": "allenai",
+  "repo": "dolma",
+  "versions": [
+    {
+      "commit": "669f534823b08d266a8fff01f8a1c916a5a56576",
+      "tag": "",
+      "parsed_at": "2026-11-07T13:46:04.402297+00:00"
+    }
+  ]
+}
